@@ -1,0 +1,7 @@
+*.elf
+*.hex
+*.o
+*.map
+*.lss
+Debug/
+Release/
